@@ -1,4 +1,4 @@
-# DSC530
+# Suicide Rate Prediction
 Data Exploration and Analysis
 This project explains the following questions :
 1.	Is there any relation between the suicide rates and gdp (developed/developing countries)?
